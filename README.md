@@ -116,3 +116,7 @@ Swiggy is an Indian online food delivery and quick-commerce platform that connec
 ## 🙋 Author
 **Abdel**  
 [LinkedIn](https://www.linkedin.com/in/abdelhak-morhlia-41366a396/) • [GitHub](https://github.com/abdelhakmorhlia01-hub)
+
+--
+
+If you found this project useful, feel free to ⭐ star the repository!Compartir
